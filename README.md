@@ -4,7 +4,8 @@ demo
 
 <div align="center">
 
-<img src="https://yourcdn.com/holux-logo.png" alt="Holux Logo" width="150"/>
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/64b73b8c-a2ff-4542-9589-da378257bf53" />
+
 
 # Holux Widgets 🌌  
 **Interfaz modular interactiva para XWidget + AutoHotkey**
