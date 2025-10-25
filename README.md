@@ -8,9 +8,8 @@ demo
 
 # Holux Widgets 🌌  
 **Interfaz modular interactiva para XWidget + AutoHotkey**
+![202503_Xwidget_Escritorio_Inix_W10@Pmx_10](https://github.com/user-attachments/assets/280faf7b-6e45-4b38-af48-c5b62bfa3d04)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Platform](https://img.shields.io/badge/platform-Windows%207%2B-lightgrey)]() [![Status](https://img.shields.io/badge/status-Experimental-orange)]()
 
 <img width="219" height="198" alt="505660787-72988338-ebf7-40bf-ba2d-8aab92b05c72" src="https://github.com/user-attachments/assets/9cf1a11e-d8ae-4e0c-94f3-a594fa503b7b" />
 
