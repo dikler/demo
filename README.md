@@ -4,7 +4,8 @@ demo
 
 <div align="center">
 
-<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/64b73b8c-a2ff-4542-9589-da378257bf53" />
+<img width="500" height="501" alt="image" src="https://github.com/user-attachments/assets/7fa32090-b463-4398-982c-8a544cb76b10" />
+
 
 
 # Holux Widgets 🌌  
