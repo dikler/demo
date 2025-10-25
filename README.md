@@ -1,8 +1,6 @@
 # Holux
 <div align="center">
-<img width="146" height="146" alt="image" src="https://github.com/user-attachments/assets/718860b5-de6a-4ca2-af0c-17e24864fbdd" />
-
-
+<img width="108" height="108" alt="image" src="https://github.com/user-attachments/assets/5e142dca-fa69-47d4-a1c5-c04f402ce199" />
 
 # Holux Widgets 🌌  
 **Interfaz modular interactiva para XWidget + AutoHotkey**
