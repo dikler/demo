@@ -1,9 +1,10 @@
-# Holux
+# Holux🌌
 <div align="center">
 <img width="108" height="108" alt="image" src="https://github.com/user-attachments/assets/5e142dca-fa69-47d4-a1c5-c04f402ce199" />
 
-# Holux Widgets 🌌  
-**Interfaz modular interactiva para XWidget + AutoHotkey**
+# Holux Widgets   
+**Interfaz modular interactiva demo 
+(XWidget+)
 ![202503_Xwidget_Escritorio_Inix_W10@Pmx_10](https://github.com/user-attachments/assets/280faf7b-6e45-4b38-af48-c5b62bfa3d04)
 
 **Controles Holux**:
