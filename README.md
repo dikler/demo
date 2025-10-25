@@ -1,12 +1,6 @@
 # Holux
-<img width="146" height="146" alt="image" src="https://github.com/user-attachments/assets/718860b5-de6a-4ca2-af0c-17e24864fbdd" />
-
-
-
-
 <div align="center">
-
-<img width="500" height="501" alt="image" src="https://github.com/user-attachments/assets/7fa32090-b463-4398-982c-8a544cb76b10" />
+<img width="146" height="146" alt="image" src="https://github.com/user-attachments/assets/718860b5-de6a-4ca2-af0c-17e24864fbdd" />
 
 
 
