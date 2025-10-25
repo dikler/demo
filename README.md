@@ -33,6 +33,7 @@
 <img width="196" height="206" alt="Default" src="https://github.com/user-attachments/assets/fea949eb-a118-4f78-b72e-f60619ea808b" />
 
 **Controles Holux / Notix (Especial)**:
+
 <img width="547" height="319" alt="Default (27)" src="https://github.com/user-attachments/assets/a7ad3a76-7ee2-4bf4-82ef-557ba108bff5" />
 
 
