@@ -2,7 +2,7 @@
 <div align="center">
 <img width="108" height="108" alt="image" src="https://github.com/user-attachments/assets/5e142dca-fa69-47d4-a1c5-c04f402ce199" />
 
-# Holux Widgets   
+# Controles Holux (Widgets)   
 **Interfaz modular interactiva demo 
 (XWidget+)
 ![202503_Xwidget_Escritorio_Inix_W10@Pmx_10](https://github.com/user-attachments/assets/280faf7b-6e45-4b38-af48-c5b62bfa3d04)
@@ -69,8 +69,8 @@
 
 ## 🧭 ¿Qué es Holux?
 
-**Holux** es una plataforma de widgets visuales con integración **AutoHotkey** y enfoque en sistemas visuales tipo *sci-fi*.  
-Este repositorio incluye los módulos públicos desarrollados hasta ahora, listos para usar sobre [XWidget](http://xwidget.com/) y compatibles con Windows.
+**Holux** es una plataforma de controles (widgets) visuales con integraciones especiales (JS/VBS/AHK) y con tematica de ciencia ficcion.  
+Este repositorio incluye los módulos públicos desarrollados hasta ahora, listos para usar y compatibles (http://xwidget.com/).
 
 ---
 
@@ -106,36 +106,35 @@ Este repositorio incluye los módulos públicos desarrollados hasta ahora, listo
 
 ### Pasos:
 
-1. Clona este repositorio o descarga el `.zip`
-2. Abre XWidget Editor → `Importar widget` → selecciona la carpeta del widget `.xwl` o `.xwp`
-3. (Opcional) Edita parámetros desde el archivo `main.xul` o `script.js/vbs`
-4. Ejecuta el widget y disfruta
+1. Clona este repositorio o descarga el archivo (*.zip)
+2. Abrir ejecutable (XWidget.exe)
+3. Editar parámetros desde el control (opcional)
 
 ---
 
-## 💡 Ideas Futuras / Pendientes
+## 💡 Oportunidades
 
 - [ ] Historial gráfico de temperatura
-- [ ] Integración con feed religioso (modo litúrgico)
-- [ ] Selector de skins
-- [ ] App externa tipo launcher
+- [ ] Integración de canales (RSS)
+- [ ] Selector de temas (pieles)
+- [ ] Lanzador externo
 
 ---
 
-## 🐛 Desafíos Técnicos
+## 🐛 Parametros técnicos
 
-- ❗ Mezcla limitada de VBScript y JavaScript en XWidget
-- ❗ Transparencia y bordes redondeados manuales en AHK
-- ❗ No hay API oficial en wttr.in para temperaturas min/máx (procesamiento manual)
+- ❗ Capacidad expandible de codigo (JS/VBS/AHK)
+- ❗ Efectos de transparencia disponibles
+- ❗ Conexion de clima (API / wttr.in) con pronostico eventual
 
 ---
 
 ## 🙌 Créditos y contacto
 
-Creado por **Nim** y asistido por **Nu (ChatGPT)**  
+Creado por **Nim** 
 Con ❤️ desde Holux Labs, 2023–2025
 
-> Si deseas colaborar o tienes ideas: [nim@holuxplanet.fake]()
+> Participa si deseas colaborar!
 
 ---
 
